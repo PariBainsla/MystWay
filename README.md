@@ -2,7 +2,6 @@
 
 **MystWay** is a visually captivating, responsive landing page that introduces users to a cosmic-themed domain and cloud hosting service. Designed for both desktop and mobile, it showcases sleek UI components, modern design principles, and adaptability for future expansion.
 
-![MystWay Screenshot](https://www.pngmart.com/files/17/Galaxy-Space-Transparent-PNG.png)
 ![Image](https://github.com/user-attachments/assets/51a3a97e-3d99-44da-9a80-145a9dc0ab1d)
 
 ---
@@ -25,6 +24,3 @@
 - **Remix Icons** (via CDN)
 
 ---
-
-## 📁 File Structure
-
